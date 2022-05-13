@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OKHttp</string>
+    <string name="get">get请求</string>
+</resources>
